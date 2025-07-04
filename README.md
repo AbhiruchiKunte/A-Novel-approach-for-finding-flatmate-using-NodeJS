@@ -26,15 +26,14 @@ Welcome to the Flatmate Finder – a smart, full-stack web application built usi
 
 ---
 ## 🧠 Run the ML module 
-cd ml_modules
-
-python services_clustering.py
+    cd ml_modules
+    python services_clustering.py
 
 ---
 ## ▶️ Start the app
-cd backend
+    cd backend
+    node app.js
 
-node app.js
 
 
 
